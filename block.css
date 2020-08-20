@@ -1,0 +1,110 @@
+body{
+	margin: 0px;
+}
+header{
+	height: 100px;
+	width: 100%;
+	background-color: blue;
+	
+}
+header a{
+	font-size: 30px;
+	width: 100px;
+	height: 50px;
+	margin-left: 30px;
+	margin-bottom:20px;
+	border:2px solid red;
+	}
+nav{
+height:400px;
+width:150px;
+background-color: rgb(100,100,100);
+float: left;
+text-align: center;
+font-size: 30px;
+}
+nav h2{
+	position: relative;
+	top: 50px;
+}
+.middle{
+	background-color:rgb(150,165,150) ;
+height:400px;
+	
+}
+.middle div	
+	{
+display: inline-block;
+	}
+	.banner1{
+   height: 150px;
+	width: 200px;
+	background-color: rgb(106,90,205);
+	font-size: 20px;
+	margin-left:150px;
+	margin-top: 10px;
+
+	}
+	.banner1 a{
+		position: relative;
+		top: 70px;
+	}
+	.banner2{
+	height: 150px;
+	width: 200px;
+	margin-left:600px;
+	background-color: rgb(106,90,205);
+	
+	}
+	.banner2 a{
+		position: relative;
+		top: 70px;
+	}
+	.BLOCK-1{
+		background: yellow;
+	height: 100px;
+	width: 250px;
+	background: yellow;
+	margin-top: 40px;
+	margin-left: 200px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 20px ;
+    }
+    .block-1 h3{
+    	position: relative;
+    	top: 80px;
+    }
+    .BLOCK-2{
+		background: yellow;
+	height: 100px;
+	width: 250px;
+	margin-left: 60px;
+	text-align: center;
+	font-size: 20px;
+}
+.block-2 h3{
+    	position: relative;
+    	top: 80px;
+    }
+
+.BLOCK-3{
+		background: yellow;
+	height: 100px;
+	width: 250px;
+	margin-left: 60px;
+	text-align: center;
+	font-size: 20px;
+}
+.block-3 h3{
+    	position: relative;
+    	top: 80px;
+    }
+
+footer h5{
+	position: relative;
+	background-color: rgb(156,123,158);
+	height: 30px;
+margin-top: 0px;
+font-size: 30px;
+}
